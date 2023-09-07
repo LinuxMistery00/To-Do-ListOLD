@@ -100,4 +100,7 @@ ul {
 li {
   margin-bottom: 1vh;
 }
+input:focus {   
+  outline: none;
+}
 </style>
